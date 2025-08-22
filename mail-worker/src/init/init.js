@@ -37,7 +37,7 @@ const init = {
 
 		const noticeContent = '本项目仅供学习交流，禁止用于违法业务\n' +
 			'<br>\n' +
-			'请遵守当地法规，作者不承担任何法律责任\n' +
+			'请遵守当地法规，我们不承担任何法律责任\n' +
 			'<div style="display: flex;gap: 18px;margin-top: 10px;">\n' +
 			'<a href="https://github.com/eoao/cloud-mail" target="_blank" >\n' +
 			'<img src="https://api.iconify.design/codicon:github-inverted.svg" alt="GitHub" width="25" height="25" />\n' +
